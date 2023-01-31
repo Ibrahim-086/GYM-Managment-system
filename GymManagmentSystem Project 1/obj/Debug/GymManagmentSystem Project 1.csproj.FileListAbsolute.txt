@@ -1,0 +1,18 @@
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\bin\Debug\GymManagmentSystem Project 1.exe.config
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\bin\Debug\GymManagmentSystem Project 1.exe
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\bin\Debug\GymManagmentSystem Project 1.pdb
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem Project 1.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem Project 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem_Project_1.Form1.resources
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem_Project_1.Properties.Resources.resources
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem Project 1.csproj.GenerateResource.cache
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem Project 1.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem Project 1.exe
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem Project 1.pdb
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem_Project_1.NewMember.resources
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem_Project_1.NewStaff.resources
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem_Project_1.Equipment.resources
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem_Project_1.ViewEquipment.resources
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem_Project_1.SearchMembers.resources
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem_Project_1.DeleteMember.resources
+C:\Users\Ibrahim\OneDrive\Desktop\Subjects\Visual Programming\codes\GymManagmentSystem Project 1\GymManagmentSystem Project 1\obj\Debug\GymManagmentSystem_Project_1.Login.resources
